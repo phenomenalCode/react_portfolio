@@ -15,7 +15,7 @@ export const projectData = [
   {
     id: 2,
     title: 'Happy Thoughts',
-    description: 'Booking form, admin page & check-in page for Velita Clinique.',
+    description: 'Happy Thoughts is a full-stack web app where users can post uplifting messages, like others thoughts, and manage their own posts. It includes user authentication, random thought display, and like tracking.Tools used: React, MUI, Node.js, Express, MongoDB (Mongoose), JWT, Netlify, Render.',
     img: img2,
     github: 'https://github.com/phenomenalCode/js-project-happy-thoughts/tree/happywbackend',
   },
