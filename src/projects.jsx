@@ -1,8 +1,9 @@
 import React from 'react';
 
 import img1 from './images/reconomy-logo.png';
-import img2 from './images/unnamed.jpg';
+import img2 from './images/IMG_3828.jpeg';
 import img3 from './images/weatherapps-android-1weather-5b751ae9c9e77c0057fc06d5.jpg';
+import img4 from './images/IMG_3849.jpeg';
 export const projectData = [
   {
     id: 1,
@@ -13,17 +14,24 @@ export const projectData = [
   },
   {
     id: 2,
-    title: 'Velita Clinique Booking',
+    title: 'Happy Thoughts',
     description: 'Booking form, admin page & check-in page for Velita Clinique.',
     img: img2,
-    github: 'https://github.com/your-username/velita-clinique',
+    github: 'https://github.com/phenomenalCode/js-project-happy-thoughts/tree/happywbackend',
   },
   {
     id: 3,
     title: 'Weather App',
     description: 'A simple weather forecast app.',
     img: img3,
-    github: 'https://github.com/your-username/weather-app',
+    github: 'https://github.com/phenomenalCode/weather-app',
+  },
+  {
+    id: 4,
+    title: 'Task manager',
+    description: 'A React To-Do List app with task and project management, dark mode, filtering, and sorting. It uses Zustand for state management and Material-UI for a responsive, stylish interface. Tasks and projects are saved in localStorage for persistence.',
+    img: img4,
+    github: 'https://github.com/phenomenalCode/to-do-list-app',
   },
 ];
 
