@@ -44,7 +44,7 @@ const HeroSection = () => {
             </p>
             <p style={{ fontWeight: 'bold' }}>
                 I specialize in front-end development, crafting clean, intuitive user interfaces that ensure an inclusive experience across all devices and platforms.
-                My development stack includes JavaScript, HTML, CSS, and React, allowing me to build responsive and engaging web applications. 
+                My development stack includes JavaScript, HTML, CSS, React, and node.js allowing me to build responsive and engaging web applications. 
                 I also work with Node.js to handle backend logic, giving me full control over the entire user experience—from front-end interaction to server-side processing.
                 My focus is always on writing clean, maintainable code that enhances performance and accessibility for all users.
             </p>

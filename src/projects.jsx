@@ -7,9 +7,9 @@ export const projectData = [
   {
     id: 1,
     title: 'Reconomy Check-In App',
-    description: 'Check-in system and admin page designed for Reconomy AB.',
+    description: 'Check-in system and admin dashboard designed for Reconomy AB.',
     img: img1,
-    github: 'https://github.com/your-username/reconomy-checkin',
+    github: 'https://github.com/phenomenalCode/Reconomy',
   },
   {
     id: 2,
