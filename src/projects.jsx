@@ -22,7 +22,7 @@ export const projectData = [
   {
     id: 3,
     title: 'Weather App',
-    description: 'A simple weather forecast app. Tools, JS and Typescript',
+    description: 'A simple weather forecast app. Tools, JS and Typescript and css',
     img: img3,
     github: 'https://github.com/phenomenalCode/weather-app',
   },
