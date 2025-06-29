@@ -8,7 +8,7 @@ export const projectData = [
   {
     id: 1,
     title: 'Reconomy Check-In App',
-    description: 'Check-in system and admin dashboard designed for Reconomy AB.',
+    description: 'Check-in system and admin dashboard designed for Reconomy AB. A full-stack employee time-tracking system built with Node.js, Express, and MySQL, featuring Employee Management , Create, update, and filter employee records Time Logging , Log check-in/out events with optional comments Admin Login , Session-based authentication for protected routes Cross-Origin Support , Fully functional CORS setup for Netlify Heroku deployment Deployment , Backend hosted on Heroku, frontend on Netlify',
     img: img1,
     github: 'https://github.com/phenomenalCode/Reconomy',
   },
@@ -22,7 +22,7 @@ export const projectData = [
   {
     id: 3,
     title: 'Weather App',
-    description: 'A simple weather forecast app.',
+    description: 'A simple weather forecast app. Tools, JS and Typescript',
     img: img3,
     github: 'https://github.com/phenomenalCode/weather-app',
   },
