@@ -38,13 +38,13 @@ const HeroSection = () => {
                 
                 }
                 >
-                I am a software engineer with a passion for creating user-friendly web applications.
+                I am a junior web developer with a passion for creating user-friendly web applications.
                 I have a strong background in computer science and a keen eye for design, which allows me to bridge the gap between functionality and aesthetics.
                 My goal is to build applications that not only meet user needs but also provide an enjoyable experience.
             </p>
             <p style={{ fontWeight: 'bold' }}>
                 I specialize in front-end development, crafting clean, intuitive user interfaces that ensure an inclusive experience across all devices and platforms.
-                My development stack includes JavaScript, HTML, CSS, React, and node.js allowing me to build responsive and engaging web applications. 
+                My development stack includes JavaScript, HTML, CSS and React allowing me to build responsive and engaging web applications. 
                 I also work with Node.js to handle backend logic, giving me full control over the entire user experience—from front-end interaction to server-side processing.
                 My focus is always on writing clean, maintainable code that enhances performance and accessibility for all users.
             </p>
@@ -71,7 +71,7 @@ const HeroSection = () => {
                 <li>CSS</li>
                 <li>React</li>
                 <li>Node.js</li>
-                <li>Responsive Design</li>
+                <li>Material Ui</li>
             </ul>
 
             {/* Button */}
