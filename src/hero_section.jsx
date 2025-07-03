@@ -1,4 +1,4 @@
-import img from './images/IMG_3911.jpeg';
+import img from './images/IMG_3912.jpeg';
 import img2 from './images/shutterstock_394793860-1536x1177.jpg';
 
 const HeroSection = () => {
@@ -26,7 +26,7 @@ const HeroSection = () => {
                     alt="Profile" 
                     style={{
                         width: '100%',
-                        height: '100%',
+                        height: '150%',
                         objectFit: 'cover',
                     }}
                 />
