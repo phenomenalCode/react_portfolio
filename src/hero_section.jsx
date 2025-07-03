@@ -1,4 +1,4 @@
-import img from './images/20240416_203306.jpg';
+import img from './images/IMG_3911.jpeg';
 import img2 from './images/shutterstock_394793860-1536x1177.jpg';
 
 const HeroSection = () => {
